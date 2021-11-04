@@ -54,10 +54,6 @@ class Portfolio extends React.Component{
   }
 }
 
-/*<div className="project-window">
-  <ProjectList projects = {projectList}/>
-</div>*/
-
 function App() {
   return (
     <div className="App">
